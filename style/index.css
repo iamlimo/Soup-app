@@ -48,3 +48,9 @@ ul.navBar {
     top: 10em;
     left: 45em;
 }
+
+a.but{
+    padding: 10px;
+    color: #fff;
+    margin-top: 40px;
+}
