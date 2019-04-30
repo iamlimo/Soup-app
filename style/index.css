@@ -1,0 +1,50 @@
+
+body {
+    margin: 0 !important;
+    }
+    
+.navheader{
+
+}
+ul.navBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  ul.navBar > li {
+    display: inline-block;
+    padding-right: 10px;
+  }
+  
+ ul.navBar > li a {
+    display: block;
+    color: white;
+    text-align: center;
+    
+    text-decoration: none;
+  }
+  
+  ul.navBar> li a:hover {
+    background-color: #111;
+  }
+
+  .food-header{
+    /* height: 600px !important; */
+    height: 100vh;
+}
+
+#yellow{
+    background-color: #F3CA3E;
+}
+
+#getStartedText{
+    padding: 15em 10px 0 2em;
+}
+
+#egusi-image{
+    position: absolute;
+    top: 10em;
+    left: 45em;
+}
