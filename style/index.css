@@ -54,3 +54,31 @@ a.but{
     color: #fff;
     margin-top: 40px;
 }
+
+.sections{
+    /* height: 600px; */
+    padding: 10em 0 5em 0;
+}
+
+.card{
+    height: 400px;
+    padding: 4em 0 4em 0;
+    border: none;
+    background-color:;
+}
+.contents{
+    padding-top: 90px;
+}
+
+.join{
+    padding-top: 5em;
+}
+
+.footer{
+    background-color: #fafbfc;
+    padding: 20px;
+}
+
+#follow{
+    border-right: 1px solid #e4e6eb;
+}
